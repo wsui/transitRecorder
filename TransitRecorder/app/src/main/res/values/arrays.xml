@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="bus_323a">
+        <item>南湾康乐总站</item>
+        <item>尚景花园</item>
+        <item>布澜路口</item>
+        <item>大芬地铁站①</item>
+        <item>木棉湾地铁站①</item>
+        <item>深圳东站</item>
+        <item>荣超花园①</item>
+        <item>草埔地铁站⑨</item>
+        <item>洪湖公园①</item>
+        <item>笋岗街道办</item>
+        <item>笋岗艺展中心</item>
+        <item>友谊医院</item>
+        <item>八卦岭社康中心</item>
+        <item>平安大厦①</item>
+        <item>八卦五街</item>
+        <item>体育馆②</item>
+        <item>市二医院②</item>
+        <item>笔架山公园</item>
+        <item>莲花一村</item>
+        <item>公交大厦</item>
+        <item>彩田村②</item>
+        <item>莲花北村②</item>
+        <item>北大医院①</item>
+        <item>景新花园①</item>
+        <item>景秀中学</item>
+        <item>景田沃尔玛</item>
+        <item>特发小区</item>
+        <item>枫丹雅苑</item>
+        <item>金地网球中心</item>
+        <item>翠海花园②</item>
+        <item>经济犯罪侦查局</item>
+        <item>鸿新花园①</item>
+        <item>警校</item>
+        <item>园博园西</item>
+        <item>锦绣中华</item>
+        <item>世界之窗②</item>
+        <item>白石洲②</item>
+        <item>大冲①</item>
+        <item>科技园①</item>
+        <item>南头①</item>
+        <item>深南北环立交①</item>
+        <item>宝安交通运输局</item>
+        <item>裕安路口①</item>
+        <item>上川路口①</item>
+        <item>西乡路口①</item>
+        <item>宝安中心医院①</item>
+        <item>西乡立交①</item>
+        <item>宝安文具批发市场</item>
+        <item>大益广场</item>
+        <item>西乡盐田大门</item>
+        <item>圣淘沙</item>
+        <item>富通城二期</item>
+        <item>富通城三期</item>
+        <item>沿江大铲湾口</item>
+        <item>西乡大铲湾码头总站</item>
+    </string-array>
+
+    <string-array name="subway1a">
+        <item>罗湖站</item>
+        <item>国贸站</item>
+        <item>老街站</item>
+        <item>大剧院站</item>
+        <item>科学馆站</item>
+        <item>华强路站</item>
+        <item>岗厦站</item>
+        <item>会展中心站</item>
+        <item>购物公园站</item>
+        <item>香蜜湖站</item>
+        <item>车公庙站</item>
+        <item>竹子林站</item>
+        <item>侨城东站</item>
+        <item>华侨城站</item>
+        <item>世界之窗站</item>
+        <item>白石洲站</item>
+        <item>高新园站</item>
+        <item>深大站</item>
+        <item>桃园站</item>
+        <item>大新站</item>
+        <item>鲤鱼门站</item>
+        <item>前海湾站</item>
+        <item>新安站</item>
+        <item>宝安中心站</item>
+        <item>宝体站</item>
+        <item>坪洲站</item>
+        <item>西乡站</item>
+        <item>固戍站</item>
+        <item>后瑞站</item>
+        <item>机场东站</item>
+    </string-array>
+
+    <string-array name="bus_dir">
+        <item>西乡大铲湾码头</item>
+        <item>南湾康乐总站</item>
+    </string-array>
+
+    <string-array name="subway_dir">
+        <item>机场东站</item>
+        <item>罗湖站</item>
+    </string-array>
+
+    <string-array name="bj">
+        <item>站</item>
+        <item>坐</item>
+    </string-array>
+</resources>

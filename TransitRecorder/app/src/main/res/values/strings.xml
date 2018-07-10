@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">公共交通记录</string>
+    <string name="bus_button">公交</string>
+    <string name="subway_button">地铁</string>
+    <string name="line_name">线路:</string>
+    <string name="direction">开往:</string>
+    <string name="waiting_for_bus">等车</string>
+    <string name="getting_on_bus">车内</string>
+    <string name="get_off_bus">下车</string>
+    <string name="plate_number">车牌:</string>
+    <string name="station_name">站名:</string>
+    <string name="layer">观测层:</string>
+    <string name="section">路段:</string>
+    <string name="state">站坐:</string>
+    <string name="bus_position">车内位置（方向：→)</string>
+    <string name="passagers_density">乘客密度:</string>
+    <string name="save_button">保存</string>
+    <string name="subway_num">车厢号:</string>
+    <string name="door">开门:</string>
+</resources>
