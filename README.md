@@ -6,7 +6,8 @@
 
 地铁线路：subway.xls
 
-~~最新版：TransitRecorder_latast.apk v1.5~~
+~~最新版：TransitRecorder_latast.apk v1.5
 最新版：TransitRecorder_latast.apk v1.5.1
 
-2018/07/10
+~~2018/07/10~~
+2019/01/09
